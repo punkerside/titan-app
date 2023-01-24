@@ -1,0 +1,7 @@
+passwd
+.titan/
+.titan-bash/
+.npm/
+node_modules/
+package-lock.json
+app.zip
