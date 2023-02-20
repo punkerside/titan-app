@@ -1,9 +1,12 @@
 passwd
 .titan/
-.titan-bash/
 .npm/
 node_modules/
 package-lock.json
 app.zip
 .ansible/
 ansible/roles/common/
+.config/
+.cache/
+.titan-bash/
+terraformrc
